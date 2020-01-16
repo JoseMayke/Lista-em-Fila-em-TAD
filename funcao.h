@@ -15,4 +15,3 @@ fila *buscarElemento(fila *lista,int n);
 void mostrarInicioDaFila(fila *lista);
 void mostrarFinalDaFila(fila *lista);
 fila *liberarFila(fila *lista);
-
